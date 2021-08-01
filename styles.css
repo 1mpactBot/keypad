@@ -1,0 +1,18 @@
+body{
+    background-color:#FAC5FE;
+}
+.keypad{
+    margin: auto;
+    padding: 10%;
+    width: 50%;
+}
+.btn{
+    padding: 10px;
+    background-color: antiquewhite;
+    font-size: 1.25rem;
+    text-align: center;
+}
+input{
+    width:25%;
+    margin: 5px;
+}
